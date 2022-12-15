@@ -1,0 +1,20 @@
+package AbstractionSoftUni.CardSuit;
+
+public enum Suits {
+
+    CLUBS(0),
+    DIAMONDS(1),
+    HEARTS(2),
+    SPADES(3);
+
+    private int val;
+
+    Suits(int values) {
+        this.val = values;
+    }
+
+    public int getValues() {
+        return val;
+    }
+
+}
