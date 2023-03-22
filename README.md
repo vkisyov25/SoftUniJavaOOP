@@ -1,1 +1,1 @@
-# SoftUniJavaOOP
+# SoftUni-Java-OOP
